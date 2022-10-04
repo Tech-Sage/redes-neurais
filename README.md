@@ -1,2 +1,2 @@
 # redes-neurais
-Redes Neurais na linguagens Python, C e C#
+Redes Neurais nas linguagens Python, C e C#
